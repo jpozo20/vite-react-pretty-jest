@@ -14,7 +14,7 @@
     "vite",
     "react",
     "prettier",
-    "eslint",
+    "eslint"
   ],
   "scripts": {    
     "dev": "vite",
